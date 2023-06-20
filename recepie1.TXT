@@ -1,0 +1,8 @@
+Lasagnia
+-----------
+1*Pasta
+1*Beef
+3*Tomato
+1*Garlic
+1*Spices
+1*Sugar
